@@ -1,8 +1,5 @@
 function Header(props) {
   const headerStyle = {
-    // backgroundColor: "blueviolet",
-    // padding: "4vmax",
-    // border: "5px solid red",
     color: "white",
   };
   return (
